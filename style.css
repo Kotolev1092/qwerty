@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.backgr{   
+background-image: url(/img/bg.png);
+background-size: cover;
+height: 931px;
+
+}
+.logo{
+padding-left: 910px;
+padding-top: 60px;
+}
+.text{
+font-size: 60px;
+text-align: center;
+color: #ffffff;
+padding-top: 400px;
+
+}
+.text2{
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+}
+.text3{
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 300px;
+}
+.logo2{
+    padding-left: 300px;
+    padding-top: 30px;
+    position:   absolute;
+}
+.verh{
+
+}
+.verh li{
+    margin-left: 35px;
+    
+}
+.text4{
+    text-align: center;
+    margin-top: 50px;
+    color: #48555B;
+}
+.text5{
+    margin-top: 60px;
+    margin-left: 600px;
+    font-size: 20px;
+    color: #48555B;
+}
+.konstext{
+    color: #16ace8;
+}
+.text6{
+margin-left: 600px;   
+margin-top: 40px;
+}
+.logo3{
+  position: absolute;  
+  margin-left: 1100px;
+  margin-top: 50px;   
+}
+.logo4{
+    position: absolute;  
+    margin-left: 1250px;
+    margin-top: 50px;    
+  }
+  .logo5{
+    position: absolute;  
+    margin-left: 1400px;
+    margin-top: 50px;    
+  } 
+  .text7{
+    position: relative;
+    color: #48555B;
+    margin-left: 600px;
+    bottom: 25px;
+  }
+  .text8{
+    margin-left: 930px;
+    margin-top: 150px;
+  }
+.KnopAll{
+    width: 150px;
+    padding: 15px;
+    position: absolute;
+    right: 290px;
+    top:  1470px;
+    background-color: #16ace8;
+    color: white;
+    border: none;
+}
+.ulprod{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.ulprod li{
+    margin-left: 50px;
+}
+.liprod1{
+    border:  1px solid gray;
+    height: 250px;
+}
+.imgli1{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.lih1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.liprod2{
+    border:  1px solid gray;
+    height: 250px;
+}
+.imgli2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.lih2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.lip2{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.lip1{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.liprod3{
+    border:  1px solid gray;
+    height: 250px;
+}
+.imgli3{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.lih3{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.lip3{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.bg2{
+    padding-top: 90px;
+}
+.img5{
+    position: relative;
+}
+.text-block{
+    position: absolute;
+    bottom: 400px;
+    left: 800px;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #48555B;
+}
+.bot1{
+    width: 150px;
+    padding: 15px;
+    position: absolute;
+    right: 870px;
+    margin-top: 300px;
+    background-color: #16ace8;
+    color: white;
+    border: none;
+}
+.signup{
+    background-color: #171819;
+    height: 100px;
+}
+.txt3{
+    color: white;
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: center;
+    margin-right: 500px;
+}
+.sign{
+    
+}
+.knopsign{
+    padding: 15px;
+    right: 350px;
+    position: absolute;
+    background-color: #16ace8;
+    color: white;
+    border: none;
+    width: 200px;
+}
+
